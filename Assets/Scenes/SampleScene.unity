@@ -1422,7 +1422,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   distancia: 3
   velocidade: 0.015
-  velocidadeRotacao: 2
+  velocidadeRotacao: 200
 --- !u!1001 &1206484378
 Prefab:
   m_ObjectHideFlags: 0

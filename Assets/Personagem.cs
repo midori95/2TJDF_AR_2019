@@ -41,6 +41,8 @@ public class Personagem : MonoBehaviour {
         
         //Zerar os eixos (x e Z)
         rotacao.eulerAngles = new Vector3(0f, rotacao.eulerAngles.y, 0);
+
+        transform.rotation = rotacao;
     }
 
 
